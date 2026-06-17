@@ -1,7 +1,7 @@
 # Komodo Hub – Prototype
 
 A Digital Platform for Community-Supported Animal Conservation
-5005CMD Software Engineering — Individual Resit Submission
+5005CMD Software Engineering - Individual Resit Submission
 Nufan Mohamed — 16909890
 
 ## How to Run This Project
@@ -38,7 +38,7 @@ Nufan Mohamed — 16909890
 4. Click "Log out" at any time to return to the login page
 
 ### Support
-For any issues accessing or testing this prototype, please contact: nufannoushad@gmail.com
+For any issues accessing or testing this prototype, please contact: mohame306@coventry.ac.uk
 
 ## Project Structure
 ```

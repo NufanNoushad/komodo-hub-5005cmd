@@ -32,9 +32,9 @@ Nufan Mohamed - 16909890
 1. On the login page, select your role from the dropdown
 2. Enter the matching username and password from the table above
 3. You will be redirected to a role-specific dashboard:
-   - **Student** — view programs, submit sighting reports, manage profile
-   - **Teacher** — manage class, review submissions, message students
-   - **Admin** — register schools/communities, view business dashboard, manage permissions
+   - **Student** - view programs, submit sighting reports, manage profile
+   - **Teacher** - manage class, review submissions, message students
+   - **Admin** - register schools/communities, view business dashboard, manage permissions
 4. Click "Log out" at any time to return to the login page
 
 ### Support

@@ -2,7 +2,7 @@
 
 A Digital Platform for Community-Supported Animal Conservation
 5005CMD Software Engineering - Individual Resit Submission
-Nufan Mohamed — 16909890
+Nufan Mohamed - 16909890
 
 ## How to Run This Project
 

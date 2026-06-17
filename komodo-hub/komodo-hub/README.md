@@ -12,7 +12,7 @@ Nufan Mohamed - 16909890
 
 ### Setup
 1. Download or clone this repository
-2. No dependencies need to be installed — this is a static front-end prototype
+2. No dependencies need to be installed - this is a static front-end prototype
 
 ### Running the Application
 1. Open the project folder

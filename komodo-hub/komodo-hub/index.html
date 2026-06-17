@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Komodo Hub – Login</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="login-wrap">
+    <div class="login-card">
+      <div class="brand">
+        <span class="brand-mark">KH</span>
+        <h1>Komodo Hub</h1>
+        <p class="tagline">A Digital Platform for Community-Supported Animal Conservation</p>
+      </div>
+
+      <form id="loginForm" class="login-form">
+        <label for="role">Login as</label>
+        <select id="role" required>
+          <option value="" disabled selected>Select your role</option>
+          <option value="student">Student</option>
+          <option value="teacher">Teacher</option>
+          <option value="admin">Admin</option>
+        </select>
+
+        <label for="username">Username</label>
+        <input type="text" id="username" placeholder="e.g. student01" required>
+
+        <label for="password">Password</label>
+        <input type="password" id="password" placeholder="Enter password" required>
+
+        <button type="submit">Log in</button>
+        <p id="error" class="error"></p>
+      </form>
+
+      <details class="credentials">
+        <summary>Demo login credentials (for testing/evaluation)</summary>
+        <table>
+          <tr><th>Role</th><th>Username</th><th>Password</th></tr>
+          <tr><td>Student</td><td>student01</td><td>student123</td></tr>
+          <tr><td>Teacher</td><td>teacher01</td><td>teacher123</td></tr>
+          <tr><td>Admin</td><td>admin01</td><td>admin123</td></tr>
+        </table>
+      </details>
+    </div>
+  </div>
+
+  <script src="js/auth.js"></script>
+</body>
+</html>
